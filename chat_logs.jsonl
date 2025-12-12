@@ -1,0 +1,11 @@
+{"timestamp": "2025-12-12T17:36:07.247812Z", "user": "hi", "bot": "Hi there! What would you like to know?"}
+{"timestamp": "2025-12-12T17:36:21.996176Z", "user": "how are you", "bot": "Sorry, I didn't get that. Can you rephrase?"}
+{"timestamp": "2025-12-12T17:36:35.494335Z", "user": "How are you?", "bot": "I am not sure about that. Ask me about tasks, submission, or GitHub setup."}
+{"timestamp": "2025-12-12T17:37:09.114374Z", "user": "hii", "bot": "Sorry, I didn't get that. Can you rephrase?"}
+{"timestamp": "2025-12-12T17:37:15.098891Z", "user": "hello", "bot": "Hello! How can I help you today?"}
+{"timestamp": "2025-12-12T17:40:22.502776Z", "user": "ii", "bot": "I am not sure about that. Ask me about tasks, submission, or GitHub setup."}
+{"timestamp": "2025-12-12T17:48:07.257223Z", "user": "hi", "bot": "Hello! How can I help you today?"}
+{"timestamp": "2025-12-12T17:48:19.464251Z", "user": "what are the tasks?", "bot": "I am not sure about that. Ask me about tasks, submission, or GitHub setup."}
+{"timestamp": "2025-12-12T17:48:35.229630Z", "user": "how to submit?", "bot": "Make sure your repo is named CODSOFT and include each task in a separate folder with README and demo video link."}
+{"timestamp": "2025-12-12T17:48:46.238411Z", "user": "thanks", "bot": "You're welcome! Happy to help."}
+{"timestamp": "2025-12-12T17:48:49.333584Z", "user": "bye", "bot": "Goodbye! All the best."}
