@@ -1,0 +1,11 @@
+movieId,title,genres,description
+1,The Shawshank Redemption,Drama,"Two imprisoned men bond over a number of years, finding solace and eventual redemption."
+2,The Godfather,Crime|Drama,The aging patriarch of an organized crime dynasty transfers control of his clandestine empire to his reluctant son.
+3,The Dark Knight,Action|Crime|Drama,"When the menace known as the Joker wreaks havoc, Batman must accept one of the greatest psychological and physical tests."
+4,Pulp Fiction,Crime|Drama,"The lives of two mob hitmen, a boxer, a gangster's wife, and a pair of diner bandits intertwine in four tales of violence and redemption."
+5,Forrest Gump,Drama|Romance,"The presidencies of Kennedy and Johnson, Vietnam, Watergate and other history unfold through the perspective of an Alabama man."
+6,Inception,Action|Sci-Fi|Thriller,A thief who steals corporate secrets through dream-sharing technology is given the inverse task of planting an idea into the mind of a CEO.
+7,Interstellar,Adventure|Drama|Sci-Fi,A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+8,The Matrix,Action|Sci-Fi,A hacker discovers the world is a simulated reality and joins a rebellion to free humanity.
+9,The Lion King,Animation|Adventure|Drama,A young lion prince flees his kingdom only to learn the true meaning of responsibility and bravery.
+10,Fight Club,Drama,An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much more.
